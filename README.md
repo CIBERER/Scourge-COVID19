@@ -1,6 +1,6 @@
 <a name=“SC19”></a>
 <p align="left"  >
-  <a href="https://www.scourge-covid.org/" target="_blank" title="SCOURGE-COVID19"><img src="https://github.com/genomicsITER/SCOURGE-COVID19/blob/main/images/Logo-Scourge.png" width="30%" title="SCOURGE-COVID19" alt="SCOURGE-COVID19" />
+  <a href="https://www.scourge-covid.org/" target="_blank" title="SCOURGE-COVID19"><img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/Logo-Scourge.png" width="30%" title="SCOURGE-COVID19" alt="SCOURGE-COVID19" />
   </a>
 </p>
 <p><br></p>
@@ -87,7 +87,7 @@ The SCOURGE Board of Directors will review the submitted request. Within a few d
 1: Carracedo A, on behalf of the Spanish COalition to Unlock Research on host GEnetics on COVID-19 (SCOURGE). A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes. medRxiv 2021.11.24.21266741; doi: https://doi.org/10.1101/2021.11.24.21266741
 
 <p align="right">
-  <a href="https://github.com/genomicsITER/SCOURGE-COVID19" title="Up">
-    <img src="https://github.com/genomicsITER/SCOURGE-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
+    <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
