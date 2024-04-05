@@ -22,9 +22,10 @@ International genetic studies based on genome-wide association studies (GWAS) an
 <ul>
 <li><a href="#pub-ava-data">Publicly available datasets</a></li>
  <ul>
- <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
- <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
+     <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
+     <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
  </ul>
+<li><a href="#access-to-data">Access to the results of SCOURGE studies</a></li>
 <li><a href="#board-of-directors">Board of Directors</a></li>
 <li><a href="#references">References</a></li>
 </ul>
@@ -138,6 +139,7 @@ No individual level data will be made available. Granted requests will have acce
 <hr>
 <!-- --------------------------------- Section --------------------------------->
 
+<a name="access-to-data"></a>
 ## Access to the results of SCOURGE studies
 
 Requesters should access the request form here: https://redcap.ciberisciii.es/surveys/?s=CMHFLDHXPALX3AAL
