@@ -14,7 +14,7 @@ The coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory 
  
 International genetic studies based on genome-wide association studies (GWAS) and/or comparative genome sequencing analyses have been conducted to identify genetic variants associated with COVID-19 severity. Through diverse nested sub-studies, the Spanish COalition to Unlock Research on host GEnetics on COVID-19 (SCOURGE) consortium was launched in May 2020 aiming to find biomarkers of evolution and prognosis that can have an immediate impact on clinical management and therapeutic decisions in SARS-CoV-2 infections. This consortium has recruited patients from hospitals across Spain and Latin America in close collaboration with the STOP-Coronavirus initiative and leverages a centralized genotyping and analysis platform (https://www.scourge-covid.org).
 
-Contents
+## Table of contents
 
 <ul>
 <li><a href="#pub-ava-data">Publicly available datasets</a></li>
