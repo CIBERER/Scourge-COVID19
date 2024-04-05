@@ -172,9 +172,9 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 <a name="references"></a>
 
 ## References
-<a name="#ref1">1</a>: Cruz, R., Diz-de Almeida, S. et al. (2022). <b>Novel genes and sex differences in COVID-19 severity</b>. <i>Human molecular genetics</i>, 31(22), 3789–3806. https://doi.org/10.1093/hmg/ddac132
+<a name="ref1">1</a>: Cruz, R., Diz-de Almeida, S. et al. (2022). <b>Novel genes and sex differences in COVID-19 severity</b>. <i>Human molecular genetics</i>, 31(22), 3789–3806. https://doi.org/10.1093/hmg/ddac132
 
-<a name="#ref2">2</a>: Diz-de Almeida, S. et al. (2024). <b>Novel risk loci for COVID-19 hospitalization among admixed American populations</b>. <i>eLife</i> 13:RP93666. https://doi.org/10.7554/eLife.93666.1
+<a name="ref2">2</a>: Diz-de Almeida, S. et al. (2024). <b>Novel risk loci for COVID-19 hospitalization among admixed American populations</b>. <i>eLife</i> 13:RP93666. https://doi.org/10.7554/eLife.93666.1
 
 <p align="right">
   <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
