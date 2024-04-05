@@ -17,7 +17,7 @@ International genetic studies based on genome-wide association studies (GWAS) an
 
 <hr>
 
-## Table of contents 
+## Table of contents
 
 <ul>
 <li><a href="#pub-ava-data">Publicly available datasets</a></li>
