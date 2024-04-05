@@ -1,4 +1,4 @@
-<a name=“SC19”></a>
+<a name="SC19"></a>
 
 <p align="left"  >
   <a href="https://www.scourge-covid.org/" target="_blank" title="SCOURGE-COVID19"><img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/Logo-Scourge.png" width="30%" title="SCOURGE-COVID19" alt="SCOURGE-COVID19" />
@@ -30,12 +30,11 @@ International genetic studies based on genome-wide association studies (GWAS) an
 </ul>
 
 <hr>
+<!-- --------------------------------- Study 1 --------------------------------->
 
 <a name="pub-ava-data"></a>
 
 # Publicly available datasets
-
-<!-- --------------------------------- Study 1 --------------------------------->
 
 <a name="study1"></a>
 
@@ -86,7 +85,6 @@ No individual level data will be made available. Granted requests will have acce
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
-
 <!-- --------------------------------- Study 2 --------------------------------->
 
 <a name="study2"></a>
@@ -138,7 +136,6 @@ No individual level data will be made available. Granted requests will have acce
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
-
 <!-- --------------------------------- Section --------------------------------->
 
 ## Access to the results of SCOURGE studies
@@ -154,7 +151,6 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
-
 <!-- --------------------------------- Section --------------------------------->
 
 <a name="board-of-directors"></a>
@@ -171,7 +167,6 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 **Dr. Augusto Rojas-Martinez** - Tecnologico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico
 
 <hr>
-
 <!-- --------------------------------- Section --------------------------------->
 
 <a name="references"></a>
@@ -184,6 +179,3 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 <p align="right">
   <a href="#SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-
-<hr>
-
