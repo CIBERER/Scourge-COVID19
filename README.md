@@ -34,13 +34,13 @@ International genetic studies based on genome-wide association studies (GWAS) an
 
 <a name="study1"></a>
 
-# A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)
+## A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)
 Here we describe the results of the first <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> genome-wide studies of COVID-19 building up on the patients recruited in Spain from 34 centres in 25 cities [<a href="#ref1">1</a>]. The discovery stage of the study comprised up to 9,371 COVID-19 positive cases and 5,943 population controls. Replication was pursued in an additional 1,598 COVID-19 cases and 1,068 population controls and in other studies from the Host Genetics Initiative (<a href="https://www.covid19hg.org" title="COVID-19 HGI website">COVID-19 HGI</a>).
 
-## Access to the results of this study
+### Access to the results of this study
 To help advance COVID-19 research and allow the wider research community to access to the genome-wide scale results of the <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> study, the variant summary data resulting from the different SCOURGE analyses both for the overall and sex-disaggregated studies and with different outcomes (susceptibility to infection, hospitalization, severe illness, and critical illness) and control definitions (A1, A2 and C; following the COVID-19 HGI nomenclature) can be accessed after an internal assessment of formal requests received. Note that the individual file sizes are around 0.7 Gb each (approx. 7.5 Gb in total). 
 
-## What type of results would be made available?
+### What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
  
    •	**CHR**
@@ -86,13 +86,13 @@ No individual level data will be made available. Granted requests will have acce
 
 <a name="study2"></a>
 
-# Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)
+## Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)
 Here we have conducted the largest GWAS meta-analysis for COVID-19 hospitalization in admixed Americans, comprising a total of 4,702 hospitalized cases recruited by <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> and other seven participating studies in the COVID-19 Host Genetic Initiative (<a href="https://www.covid19hg.org" title="COVID-19 HGI website">COVID-19 HGI</a>) [<a href="#ref2">2</a>].
 
-## Access to the results of this study
+### Access to the results of this study
 To help advance COVID-19 research and allow the wider research community to access to the genome-wide scale results of the <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> study, the variant summary data resulting from the association study in <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> samples can be accessed after an internal assessment of formal requests received. 
 
-## What type of results would be made available?
+### What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS data of <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Latin-America (N=3,512) with information for the following descriptors:
  
    •	**CHR**
