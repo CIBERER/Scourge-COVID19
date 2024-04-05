@@ -17,8 +17,8 @@ International genetic studies based on genome-wide association studies (GWAS) an
 <ul>
 <li><a href="#">Access to the results of this study</a></li>
 <li><a href="#">Publicly available datasets</a></li>
-<li><a href="#">Board of Directors</a></li>
-<li><a href="#">References</a></li>
+<li><a href="#board-of-directors">Board of Directors</a></li>
+<li><a href="#references">References</a></li>
 </ul>
 
 # Publicly available datasets
@@ -31,6 +31,7 @@ International genetic studies based on genome-wide association studies (GWAS) an
 <!-- --------------------------------- Study 1 --------------------------------->
 
 <a name="study1"></a>
+
 # A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)
 Here we describe the results of the first <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> genome-wide studies of COVID-19 building up on the patients recruited in Spain from 34 centres in 25 cities [<a href="#ref1">1</a>]. The discovery stage of the study comprised up to 9,371 COVID-19 positive cases and 5,943 population controls. Replication was pursued in an additional 1,598 COVID-19 cases and 1,068 population controls and in other studies from the Host Genetics Initiative (<a href="https://www.covid19hg.org" title="COVID-19 HGI website">COVID-19 HGI</a>).
 
@@ -82,6 +83,7 @@ No individual level data will be made available. Granted requests will have acce
 <!-- --------------------------------- Study 2 --------------------------------->
 
 <a name="study2"></a>
+
 # Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)
 Here we have conducted the largest GWAS meta-analysis for COVID-19 hospitalization in admixed Americans, comprising a total of 4,702 hospitalized cases recruited by <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> and other seven participating studies in the COVID-19 Host Genetic Initiative (<a href="https://www.covid19hg.org" title="COVID-19 HGI website">COVID-19 HGI</a>) [<a href="#ref2">2</a>].
 
@@ -132,12 +134,13 @@ No individual level data will be made available. Granted requests will have acce
 
 <!-- --------------------------------- Section --------------------------------->
 
-## Access to the results of this study
+## Access to the results of SCOURGE studies
+
 Requesters should access the request form here: https://redcap.ciberisciii.es/surveys/?s=CMHFLDHXPALX3AAL
  
 Requesters should provide the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used. They should also explicitly indicate that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
  
-The SCOURGE Board of Directors will review the submitted request. Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
+The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request. Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
 
 <p align="right">
   <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
@@ -146,6 +149,8 @@ The SCOURGE Board of Directors will review the submitted request. Within a few d
 <hr>
 
 <!-- --------------------------------- Section --------------------------------->
+
+< name="board-of-directors"></a>
 
 ## Board of Directors
 **Dr. Angel Carracedo** - CIBERER, Instituto de Salud Carlos III - Centro Nacional de Genotipado (CEGEN), Universidade de Santiago de Compostela - Fundación Pública Galega de Medicina Xenómica, Sistema Galego de Saúde (SERGAS) - Instituto de Investigación Sanitaria de Santiago (IDIS) - Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidade de Santiago de Compostela, Spain
@@ -162,6 +167,8 @@ The SCOURGE Board of Directors will review the submitted request. Within a few d
 
 <!-- --------------------------------- Section --------------------------------->
 
+< name="references"></a>
+
 ## References
 <a name="#ref1">1</a>: Cruz, R., Diz-de Almeida, S. et al. (2022). <b>Novel genes and sex differences in COVID-19 severity</b>. <i>Human molecular genetics</i>, 31(22), 3789–3806. https://doi.org/10.1093/hmg/ddac132
 
@@ -170,7 +177,5 @@ The SCOURGE Board of Directors will review the submitted request. Within a few d
 <p align="right">
   <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-
-    
   </a>
 </p>
