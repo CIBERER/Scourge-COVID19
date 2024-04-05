@@ -14,19 +14,19 @@ The coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory 
  
 International genetic studies based on genome-wide association studies (GWAS) and/or comparative genome sequencing analyses have been conducted to identify genetic variants associated with COVID-19 severity. Through diverse nested sub-studies, the Spanish COalition to Unlock Research on host GEnetics on COVID-19 (SCOURGE) consortium was launched in May 2020 aiming to find biomarkers of evolution and prognosis that can have an immediate impact on clinical management and therapeutic decisions in SARS-CoV-2 infections. This consortium has recruited patients from hospitals across Spain and Latin America in close collaboration with the STOP-Coronavirus initiative and leverages a centralized genotyping and analysis platform (https://www.scourge-covid.org).
 
+Contents
+
 <ul>
-<li><a href="#">Access to the results of this study</a></li>
-<li><a href="#">Publicly available datasets</a></li>
+<li><a href="#pub-ava-data">Publicly available datasets</a></li>
+  <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
+  <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
 <li><a href="#board-of-directors">Board of Directors</a></li>
 <li><a href="#references">References</a></li>
 </ul>
 
-# Publicly available datasets
+<a name="pub-ava-data"></a>
 
-<ul>
-  <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
-  <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
-</ul>
+# Publicly available datasets
 
 <!-- --------------------------------- Study 1 --------------------------------->
 
@@ -150,7 +150,7 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 
 <!-- --------------------------------- Section --------------------------------->
 
-< name="board-of-directors"></a>
+<a name="board-of-directors"></a>
 
 ## Board of Directors
 **Dr. Angel Carracedo** - CIBERER, Instituto de Salud Carlos III - Centro Nacional de Genotipado (CEGEN), Universidade de Santiago de Compostela - Fundación Pública Galega de Medicina Xenómica, Sistema Galego de Saúde (SERGAS) - Instituto de Investigación Sanitaria de Santiago (IDIS) - Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidade de Santiago de Compostela, Spain
@@ -167,7 +167,7 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 
 <!-- --------------------------------- Section --------------------------------->
 
-< name="references"></a>
+<a name="references"></a>
 
 ## References
 <a name="#ref1">1</a>: Cruz, R., Diz-de Almeida, S. et al. (2022). <b>Novel genes and sex differences in COVID-19 severity</b>. <i>Human molecular genetics</i>, 31(22), 3789–3806. https://doi.org/10.1093/hmg/ddac132
