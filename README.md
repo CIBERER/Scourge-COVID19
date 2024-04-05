@@ -77,7 +77,7 @@ No individual level data will be made available. Granted requests will have acce
 [a chr:pos:allele1:allele2 identifier for all the variants]
 
 <p align="right">
-  <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
+  <a href="SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
@@ -129,7 +129,7 @@ No individual level data will be made available. Granted requests will have acce
 [#:position:nea-ea, according to the GRCh38 reference]
 
 <p align="right">
-  <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
+  <a href="SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
@@ -177,7 +177,6 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 <a name="ref2">2</a>: Diz-de Almeida, S. et al. (2024). <b>Novel risk loci for COVID-19 hospitalization among admixed American populations</b>. <i>eLife</i> 13:RP93666. doi: https://doi.org/10.7554/eLife.93666.1
 
 <p align="right">
-  <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
+  <a href="SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
-</p>
+
