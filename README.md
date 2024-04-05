@@ -1,11 +1,11 @@
 <a name="SC19"></a>
 
-<p align="left"  >
-  <a href="https://www.scourge-covid.org/" target="_blank" title="SCOURGE-COVID19"><img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/Logo-Scourge.png" width="30%" title="SCOURGE-COVID19" alt="SCOURGE-COVID19" />
-  </a>
+<p align="left" >
+ <a href="https://www.scourge-covid.org/" target="_blank" title="SCOURGE-COVID19"><img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/Logo-Scourge.png" width="30%" title="SCOURGE-COVID19" alt="SCOURGE-COVID19" />
+ </a>
 </p>
 <p><br></p>
-  
+ 
 <!-- ![What is this](Logo-Scourge.png) -->
 
 # SCOURGE COVID-19
@@ -21,10 +21,10 @@ International genetic studies based on genome-wide association studies (GWAS) an
 
 <ul>
 <li><a href="#pub-ava-data">Publicly available datasets</a></li>
-  <ul>
-  <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
-  <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
-  </ul>
+ <ul>
+ <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
+ <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
+ </ul>
 <li><a href="#board-of-directors">Board of Directors</a></li>
 <li><a href="#references">References</a></li>
 </ul>
@@ -47,42 +47,42 @@ To help advance COVID-19 research and allow the wider research community to acce
 ### What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
  
-   •	**CHR**
+ •	**CHR**
 [chromosome]
 
-   •	**POS**
+ •	**POS**
 [position, according to the GRCh38 reference]
 
-   •	**Allele1**
+ •	**Allele1**
 [non effect allele]
 
-   •	**Allele2**
+ •	**Allele2**
 [effect allele]
 
-   •	**AF_Allele2**
+ •	**AF_Allele2**
 [frequency of the effect allele in the study]
 
-   •	**Rsq**
+ •	**Rsq**
 [imputation r2 on the study. An NA is indicated for the genotyped variants]
 
-   •	**BETA**
+ •	**BETA**
 [the beta (effect size) of Allele2 in the study]
 
-   •	**SE**
+ •	**SE**
 [the standard error of BETA]
 
-   •	**p.value**
+ •	**p.value**
 [the p value from the study]
 
-   •	**SNP**
+ •	**SNP**
 [includes the Affymetrix probesetID that may be necessary for downstream analyses or a chr:pos:allele1:allele2 identifier for all others]
 
-   •	**SNP2**
+ •	**SNP2**
 [a chr:pos:allele1:allele2 identifier for all the variants]
 
 <p align="right">
-  <a href="#SC19" title="Up">
-    <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+ <a href="#SC19" title="Up">
+ <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
 <!-- --------------------------------- Study 2 --------------------------------->
@@ -98,42 +98,42 @@ To help advance COVID-19 research and allow the wider research community to acce
 ### What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS data of <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Latin-America (N=3,512) with information for the following descriptors:
 
-   •	**CHR**
+ •	**CHR**
 [chromosome]
 
-   •	**POS**
+ •	**POS**
 [position, according to the GRCh38 reference]
 
-   •	**SNP2**
+ •	**SNP2**
 [chr#:position:nea-ea, according to the GRCh38 reference]
 
-   •	**NEA**
+ •	**NEA**
 [non effect allele]
 
-   •	**EA**
+ •	**EA**
 [effect allele]
 
-   •	**EAF**
+ •	**EAF**
 [frequency of the effect allele in the study]
 
-   •	**N**
+ •	**N**
 [count of individuals]
 
-   •	**beta**
+ •	**beta**
 [the beta (effect size) of EA in the study]
 
-   •	**SE**
+ •	**SE**
 [the standard error of beta]
 
-   •	**pval**
+ •	**pval**
 [the p value from the study]
 
-   •	**SNP**
+ •	**SNP**
 [#:position:nea-ea, according to the GRCh38 reference]
 
 <p align="right">
-  <a href="#SC19" title="Up">
-    <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+ <a href="#SC19" title="Up">
+ <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
 <!-- --------------------------------- Section --------------------------------->
@@ -147,8 +147,8 @@ Requesters should provide the following information: full name and title of the 
 The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request. Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
 
 <p align="right">
-  <a href="#SC19" title="Up">
-    <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+ <a href="#SC19" title="Up">
+ <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
 <!-- --------------------------------- Section --------------------------------->
@@ -177,5 +177,5 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 <a name="ref2">2</a>: Diz-de Almeida, S. et al. (2024). <b>Novel risk loci for COVID-19 hospitalization among admixed American populations</b>. <i>eLife</i> 13:RP93666. doi: https://doi.org/10.7554/eLife.93666.1
 
 <p align="right">
-  <a href="#SC19" title="Up">
-    <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+ <a href="#SC19" title="Up">
+ <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
