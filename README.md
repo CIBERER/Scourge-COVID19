@@ -1,4 +1,5 @@
 <a name=“SC19”></a>
+
 <p align="left"  >
   <a href="https://www.scourge-covid.org/" target="_blank" title="SCOURGE-COVID19"><img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/Logo-Scourge.png" width="30%" title="SCOURGE-COVID19" alt="SCOURGE-COVID19" />
   </a>
@@ -14,6 +15,8 @@ The coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory 
  
 International genetic studies based on genome-wide association studies (GWAS) and/or comparative genome sequencing analyses have been conducted to identify genetic variants associated with COVID-19 severity. Through diverse nested sub-studies, the Spanish COalition to Unlock Research on host GEnetics on COVID-19 (SCOURGE) consortium was launched in May 2020 aiming to find biomarkers of evolution and prognosis that can have an immediate impact on clinical management and therapeutic decisions in SARS-CoV-2 infections. This consortium has recruited patients from hospitals across Spain and Latin America in close collaboration with the STOP-Coronavirus initiative and leverages a centralized genotyping and analysis platform (https://www.scourge-covid.org).
 
+<hr>
+
 ## Table of contents
 
 <ul>
@@ -25,6 +28,8 @@ International genetic studies based on genome-wide association studies (GWAS) an
 <li><a href="#board-of-directors">Board of Directors</a></li>
 <li><a href="#references">References</a></li>
 </ul>
+
+<hr>
 
 <a name="pub-ava-data"></a>
 
@@ -77,7 +82,7 @@ No individual level data will be made available. Granted requests will have acce
 [a chr:pos:allele1:allele2 identifier for all the variants]
 
 <p align="right">
-  <a href="SC19" title="Up">
+  <a href="#SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
@@ -129,7 +134,7 @@ No individual level data will be made available. Granted requests will have acce
 [#:position:nea-ea, according to the GRCh38 reference]
 
 <p align="right">
-  <a href="SC19" title="Up">
+  <a href="#SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
@@ -145,7 +150,7 @@ Requesters should provide the following information: full name and title of the 
 The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request. Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
 
 <p align="right">
-  <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
+  <a href="#SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <hr>
@@ -177,6 +182,8 @@ The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a>
 <a name="ref2">2</a>: Diz-de Almeida, S. et al. (2024). <b>Novel risk loci for COVID-19 hospitalization among admixed American populations</b>. <i>eLife</i> 13:RP93666. doi: https://doi.org/10.7554/eLife.93666.1
 
 <p align="right">
-  <a href="SC19" title="Up">
+  <a href="#SC19" title="Up">
     <img src="https://github.com/CIBERER/Scourge-COVID19/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+
+<hr>
 
