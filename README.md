@@ -94,39 +94,39 @@ To help advance COVID-19 research and allow the wider research community to acce
 
 ### What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS data of <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Latin-America (N=3,512) with information for the following descriptors:
- 
+
    •	**CHR**
-<!-- [chromosome] -->
+[chromosome]
 
    •	**POS**
-<!--[position, according to the GRCh38 reference] -->
-
-   •	**Allele1**
-<!-- [non effect allele] -->
-
-   •	**Allele2**
-<!-- [effect allele] -->
-
-   •	**AF_Allele2**
-<!-- [frequency of the effect allele in the study] -->
-
-   •	**Rsq**
-<!-- [imputation r2 on the study. An NA is indicated for the genotyped variants] -->
-
-   •	**BETA**
-<!-- [the beta (effect size) of Allele2 in the study] -->
-
-   •	**SE**
-<!-- [the standard error of BETA] -->
-
-   •	**p.value**
-<!-- [the p value from the study] -->
-
-   •	**SNP**
-<!-- [includes the Affymetrix probesetID that may be necessary for downstream analyses or a chr:pos:allele1:allele2 identifier for all others] -->
+[position, according to the GRCh38 reference]
 
    •	**SNP2**
-<!-- [a chr:pos:allele1:allele2 identifier for all the variants] -->
+[chr#:position:nea-ea, according to the GRCh38 reference]
+
+   •	**NEA**
+[non effect allele]
+
+   •	**EA**
+[effect allele]
+
+   •	**EAF**
+[frequency of the effect allele in the study]
+
+   •	**N**
+[count of individuals]
+
+   •	**beta**
+[the beta (effect size) of EA in the study]
+
+   •	**SE**
+[the standard error of beta]
+
+   •	**pval**
+[the p value from the study]
+
+   •	**SNP**
+[#:position:nea-ea, according to the GRCh38 reference]
 
 <p align="right">
   <a href="https://github.com/CIBERER/Scourge-COVID19" title="Up">
