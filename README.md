@@ -18,8 +18,10 @@ Contents
 
 <ul>
 <li><a href="#pub-ava-data">Publicly available datasets</a></li>
+  <ul>
   <li><a href="#study1">A genome-wide association study of COVID-19 related hospitalization in Spain reveals genetic disparities among sexes (2022)</a></li>
   <li><a href="#study2">Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)</a></li>
+  </ul>
 <li><a href="#board-of-directors">Board of Directors</a></li>
 <li><a href="#references">References</a></li>
 </ul>
