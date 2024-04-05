@@ -143,7 +143,7 @@ No individual level data will be made available. Granted requests will have acce
 ## Access to the results of SCOURGE studies
 
 Requesters should access the request form here: https://redcap.ciberisciii.es/surveys/?s=CMHFLDHXPALX3AAL
- 
+
 Requesters should provide the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used. They should also explicitly indicate that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
 The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request.
