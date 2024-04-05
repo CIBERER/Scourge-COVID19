@@ -144,8 +144,9 @@ Requesters should access the request form here: https://redcap.ciberisciii.es/su
  
 Requesters should provide the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used. They should also explicitly indicate that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
-The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request. Within a few 
-days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
+The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request.
+
+Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
 
 <p align="right">
  <a href="#SC19" title="Up">
