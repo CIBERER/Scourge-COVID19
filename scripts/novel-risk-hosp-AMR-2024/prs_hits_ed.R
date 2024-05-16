@@ -69,14 +69,17 @@ summary(glm(R_HOSP~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+POP_HOSP+
 		fenof,
 		family=binomial(link="logit")))
 summary(glm(R_HOSP~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+POP_HOSP+dc10_vs_60*AC,
-		fenof, family=binomial(link="logit")))
+		fenof, 
+	    	family=binomial(link="logit")))
 summary(glm(R_HOSP~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+POP_HOSP+dc10_vs_60*AOH,
 		fenof, 
 		family=binomial(link="logit")))
 summary(glm(R_HOSP~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+POP_HOSP+dc10_vs_60*AN,
-		fenof, family=binomial(link="logit")))
+		fenof, 
+	    	family=binomial(link="logit")))
 summary(glm(R_HOSP~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+POP_HOSP+dc10_vs_60*AR,
-		fenof, family=binomial(link="logit")))
+		fenof, 
+	    	family=binomial(link="logit")))
 
 # Median in each CHOSP category
 aggregate(as.numeric(feno_lat2$pcntil), by = list(feno_lat2$R_HOSP), median, na.rm = T)
