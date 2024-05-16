@@ -1,0 +1,24 @@
+# Novel risk loci for COVID-19 hospitalization among admixed American populations
+# May 2024
+
+#METAL: https://genome.sph.umich.edu/wiki/METAL_Documentation
+
+#METAL configuration for AMR
+SCHEME   STDERR
+AVERAGEFREQ ON
+MINMAXFREQ ON
+
+MARKER   SNP
+ALLELE   EA NEA
+EFFECT   beta
+STDERR   se
+PVAL     pval
+FREQ     EAF
+
+PROCESS prep_meta_hgiB2_amr.txt
+PROCESS prep_meta_scourge_lat23_chosp_pophosp_noeur.txt
+
+OUT meta_hgiB2_amr_lat23_chosp_pophosp_noeur .TBL
+ANALYZE HETEROGENEITY
+
+##End Of File
