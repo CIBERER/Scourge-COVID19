@@ -19,9 +19,6 @@ ph <- "Feno_latinos23_noeur_analizable.txt"
 pheno <- read.delim(ph, sep="\t", header = T)
 grm_pruned <- "snps_mnulo_lat23.gds"
 
-#Show phenos
-table(pheno$POP_HOSP)
-
 #Compute glmm
 glmm_hosp <- seqFitNullGLMM_SPA(R_HOSP~RSEX+REDAD+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+POP_HOSP,
 				pheno3,
