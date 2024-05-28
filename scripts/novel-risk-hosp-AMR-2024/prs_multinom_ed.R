@@ -24,11 +24,11 @@ prs_l <- read.table(prs, header = T)
 feno_lat2 <- merge(prs_l[c("IID","CNT","SCORE")], feno_lat)
 feno_lat2$st.prs <- (feno_lat2$SCORE-mean(feno_lat2$SCORE))/sd(feno_lat2$SCORE)
 
-feno3$gravedad <- as.factor(feno3$gravedad)
-feno3$gravedad2 <- relevel(feno3$gravedad, ref="0")
+feno_lat2$gravedad <- as.factor(feno_lat2$gravedad)
+feno_lat2$gravedad2 <- relevel(feno_lat2$gravedad, ref="0")
 
 #Model
-mod <- multinom(gravedad2~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+st.prs+POP_HOSP, data = feno3)
+mod <- multinom(gravedad2~REDAD+RSEX+PC1+PC2+PC3+PC4+PC5+PC6+PC7+PC8+PC9+PC10+st.prs+POP_HOSP, data = feno_lat2)
 summary(mod)
 
 #Create a date frame
