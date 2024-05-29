@@ -103,7 +103,7 @@ calculo_ics_beta_avg <- function(data,pcntil_var){
     vec <- rbind(vec,mod_df)}
   return(vec)}
 
-or_ic_cuantil_avg <- calculo_ics_beta_avg(fenof,"decil")
+or_ic_cuantil_avg <- calculo_ics_beta_avg(feno_lat2,"decil")
 ggplot(or_ic_cuantil_avg, aes(x = mod, y = or)) +
 	geom_errorbar(aes(ymax = upper, ymin = lower), size = 1, color = "purple") +
 	geom_point(size = 3.5, color = "orange") +
