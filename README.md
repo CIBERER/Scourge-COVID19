@@ -91,7 +91,7 @@ No individual level data will be made available. Granted requests will have acce
 <a name="study2"></a>
 
 ## Novel risk loci for COVID-19 hospitalization among admixed American populations (2024)
-Here we have conducted the largest GWAS meta-analysis for COVID-19 hospitalization in admixed Americans, comprising a total of 4,702 hospitalized cases recruited by <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> and other seven participating studies in the COVID-19 Host Genetic Initiative (<a href="https://www.covid19hg.org" title="COVID-19 HGI website">COVID-19 HGI</a>) [<a href="#ref2">2</a>]. The main scripts used for this study are available <a href="https://github.com/CIBERER/Scourge-COVID19/tree/main/scripts/novel-risk-hosp-AMR-2024">here</a>.
+Here we have conducted the largest GWAS meta-analysis for COVID-19 hospitalization in admixed Americans, comprising a total of 4,702 hospitalized cases recruited by <!-- <a href="https://www.scourge-covid.org/" title="SCOURGE website"> -->SCOURGE<!-- </a> --> and other seven participating studies in the COVID-19 Host Genetic Initiative (<a href="https://www.covid19hg.org" title="COVID-19 HGI website">COVID-19 HGI</a>) [<a href="#ref2">2</a>]. The main scripts used for this study are available <a href="https://github.com/CIBERER/Scourge-COVID19/tree/main/scripts/novel-risk-hosp-AMR-2024">here</a>.
 
 ### Access to the results of this study
 To help advance COVID-19 research and allow the wider research community to access to the genome-wide scale results of the <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> study, the variant summary data resulting from the association study in <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> samples can be accessed after an internal assessment of formal requests received. 
@@ -146,7 +146,7 @@ Requesters should access the request form here: https://redcap.ciberisciii.es/su
 
 Requesters should provide the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used. They should also explicitly indicate that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
-The <a href="https://www.scourge-covid.org/" title="SCOURGE website">SCOURGE</a> Board of Directors will review the submitted request.
+The <!-- <a href="https://www.scourge-covid.org/" title="SCOURGE website"> -->SCOURGE<!-- </a> --> Board of Directors will review the submitted request.
 
 Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
 
