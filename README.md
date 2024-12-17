@@ -148,7 +148,9 @@ Requesters should provide the following information: full name and title of the 
 
 The <!-- <a href="https://www.scourge-covid.org/" title="SCOURGE website"> -->SCOURGE<!-- </a> --> Board of Directors will review the submitted request.
 
-Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. 
+<!-- Once reviewed and approved, we will contact you with further instructions to access the data. -->
+
+<!-- Within a few days, an email from **`formulariosScourge-CD[at]ciberer[dot]es`** with the instructions and the link for data downloading will be obtained in response. -->
 
 <p align="right">
  <a href="#SC19" title="Up">
