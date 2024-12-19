@@ -150,7 +150,7 @@ The <!-- <a href="https://www.scourge-covid.org/" title="SCOURGE website"> -->SC
 
 Once reviewed and approved, we will contact you with further instructions to access the data.
 
-Please, be aware that ** delays in obtaining a response ** with the instructions for downloading are expected during particular periods of the year.
+Please, be aware that **delays in obtaining a response** with the instructions for downloading are expected during particular periods of the year.
 
 <p align="right">
  <a href="#SC19" title="Up">
